@@ -1,21 +1,24 @@
-# The-Garden-of-Whispers
+# Garden of Whispers
 
-Garden of Whispers is a third-person horror puzzle game concept based around atmosphere, exploration, and environmental storytelling.
+Garden of Whispers is a third person horror puzzle game concept built in Unreal Engine 5.5.4.
 
-**Project Status:** In development  
-**Engine Version:** Unreal Engine 5.5.4
+This project focuses on atmosphere, exploration, puzzle solving, and environmental storytelling. The aim is to create tension through the world itself rather than through combat.
+
+## Project Status
+
+In development
 
 ## Overview
 
-In this project, I came up with a horror game idea that focuses more on tension, puzzles, and exploration rather than combat. The player explores different areas of the forest, collects clues, solves puzzles, and uses a flashlight to help survive and move forward.
+Garden of Whispers is designed as a horror experience where the player explores a dark forest, collects clues, solves puzzles, and uses a flashlight to move forward safely. The game is built around mystery and tension, with each area revealing more through the environment.
 
-## Main Idea
+## Main Concept
 
-The main idea behind Garden of Whispers is to create a creepy and immersive experience through the environment, sound, and level design. I wanted the game to feel mysterious and unsettling, with the player always feeling unsure about what is around them.
+The main goal of this project is to create a creepy and immersive game world through sound, level design, and visual atmosphere. The player is meant to feel unsure of what is around them, which helps build suspense throughout the experience.
 
 ## Gameplay Features
 
-- Third-person exploration
+- Third person exploration
 - Puzzle solving
 - Flashlight mechanic
 - Enemy avoidance
@@ -24,29 +27,32 @@ The main idea behind Garden of Whispers is to create a creepy and immersive expe
 
 ## Level Sections
 
-The game is split into different sections:
-
 ### Forest Entrance
-The player starts near a crashed car and explores the forest to find a key and open the path forward.
+
+The player begins near a crashed car and explores the forest to find a key and unlock the path ahead.
 
 ### Graveyard Area
-The player enters a graveyard and solves a puzzle to unlock the next area.
+
+The player enters a graveyard and completes a puzzle to open the next area.
 
 ### Statue Garden
-This area includes another puzzle where the player has to observe objects in the environment and work out the correct answer.
+
+This area includes a puzzle based on observing objects in the environment and finding the correct answer.
 
 ### Maze Section
+
 The final area is a maze where the player must find keys, unlock gates, and avoid enemies to escape.
 
 ## Tools Used
 
-- Maya
 - Unreal Engine
+- Maya
 - Photoshop
 
-## What I Worked On
+## My Role
 
-For this project, I worked on:
+I worked on the following parts of the project
+
 - Game concept planning
 - Level ideas
 - Puzzle ideas
@@ -55,23 +61,25 @@ For this project, I worked on:
 
 ## What I Learned
 
-This project helped me improve my understanding of:
+This project helped me improve my understanding of
+
 - Horror game design
 - Level design
 - Puzzle design
 - Environmental storytelling
-- Planning a game project
-- Thinking about how atmosphere can affect the player experience
+- Game project planning
+- How atmosphere affects player experience
 
 ## Future Improvements
 
-If I continued this project, I would like to:
-- Make it more playable in Unreal Engine
+If I continue this project, I would like to
+
+- Build a more playable version in Unreal Engine
 - Create more 3D models and environments
-- Improve the puzzle ideas
+- Improve the puzzle design
 - Add better enemy behaviour
 - Make the world feel more detailed and immersive
 
-## Why I Like This Project
+## Why This Project Matters to Me
 
-I like this project because it matches my interest in environment art, world-building, and game development. It gave me the chance to think about how a game world, its story, and its gameplay can all work together.
+I like this project because it connects with my interest in environment art, world building, and game development. It gave me the chance to explore how story, setting, and gameplay can work together in one experience.
