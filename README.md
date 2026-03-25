@@ -56,21 +56,21 @@ For this project, I worked on:
 ## What I Learned
 
 This project helped me improve my understanding of:
-- horror game design
-- level design
-- puzzle design
-- environmental storytelling
-- planning a game project
-- thinking about how atmosphere can affect the player experience
+- Horror game design
+- Level design
+- Puzzle design
+- Environmental storytelling
+- Planning a game project
+- Thinking about how atmosphere can affect the player experience
 
 ## Future Improvements
 
 If I continued this project, I would like to:
-- make it more playable in Unreal Engine
-- create more 3D models and environments
-- improve the puzzle ideas
-- add better enemy behaviour
-- make the world feel more detailed and immersive
+- Make it more playable in Unreal Engine
+- Create more 3D models and environments
+- Improve the puzzle ideas
+- Add better enemy behaviour
+- Make the world feel more detailed and immersive
 
 ## Why I Like This Project
 
