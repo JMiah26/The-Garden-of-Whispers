@@ -43,17 +43,15 @@ The final area is a maze where the player must find keys, unlock gates, and avoi
 - Maya
 - Unreal Engine
 - Photoshop
-- Substance Painter
 
 ## What I Worked On
 
 For this project, I worked on:
-- game concept planning
-- level ideas
-- puzzle ideas
-- story and setting
-- environment design ideas
-- planning which software and tools would be used
+- Game concept planning
+- Level ideas
+- Puzzle ideas
+- Story and setting
+- Environment design ideas
 
 ## What I Learned
 
